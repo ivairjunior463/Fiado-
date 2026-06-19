@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #13131A;  
+}
+
+.bg-secondary-container {
+  background-color: #181829;
+}
+
+.primary-text {
+  color: #E8624A;
+}
+
+.primary-background {
+  background-color: #E8624A;
+}
+
+.primary-background-op {
+  background-color: rgba(232, 98, 74, 0.40);
+}
+
+.secondary-background {
+  background-color: #181829;
+}
+
+.secondary-text {
+  color: #ccc;
+}
+
